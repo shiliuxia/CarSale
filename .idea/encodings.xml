@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarSale-Mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarSale-Pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarSale-Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarSale-Services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarSale-Services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarSale-Util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarSale-Web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
