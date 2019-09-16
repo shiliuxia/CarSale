@@ -6,7 +6,23 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71b45771-7f30-4a74-a1ce-40cdce0890e4" name="Default Changelist" comment="" />
+    <list default="true" id="71b45771-7f30-4a74-a1ce-40cdce0890e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Read.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/AdminlogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/CarMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/CarbrandMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/CarorderMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/CarseriesMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/CompanyMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/CustomerMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/EmployeeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/FinancingMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/PositionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/RepertoryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarSale-Mapper/target/classes/com/dao/SaleMapper.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/CarSale-Mapper/target/" />
@@ -41,13 +57,13 @@
     <session id="-1710542960">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -57,6 +73,7 @@
           <entry key="java" value="300" />
           <entry key="js" value="7" />
           <entry key="jsp" value="11" />
+          <entry key="md" value="1" />
           <entry key="properties" value="9" />
           <entry key="xml" value="170" />
         </counts>
@@ -68,6 +85,7 @@
           <entry key="JAVA" value="300" />
           <entry key="JSP" value="11" />
           <entry key="JavaScript" value="7" />
+          <entry key="Markdown" value="1" />
           <entry key="Properties" value="9" />
           <entry key="XML" value="170" />
         </counts>
@@ -95,103 +113,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CarSale-Web/src/main/webapp/jsp/userLeft.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="46" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CarSale-Web/src/main/java/com/controller/LoginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1487">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CarSale-Util/src/main/java/common/PhoneMessageUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://E:/开源项目/SSM-CarSaleMIS/FlyCloud-parent/FlyCloud-Web/src/main/webapp/WEB-INF/lib/aliyun-java-sdk-core-3.2.2.jar!/com/aliyuncs/IAcsClient.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CarSale-Services/src/main/java/service/EmployeeService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CarSale-Mapper/src/main/resources/com/dao/EmployeeMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="223" column="32" selection-start-line="223" selection-start-column="32" selection-end-line="223" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CarSale-Mapper/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="216" selection-start-line="216" selection-end-line="216" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CarSale-Util/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CarSale-Web/src/main/webapp/jsp/userRight.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -205,6 +127,9 @@
     <findStrings>
       <find>com</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -338,7 +263,7 @@
       <path value="$PROJECT_DIR$/CarSale-Web/src/main/webapp/vendors/transitionize/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="565" />
     <option name="y" value="20" />
     <option name="width" value="815" />
@@ -378,9 +303,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -388,108 +310,45 @@
               <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
               <item name="CarSale" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarSale" type="462c0819:PsiDirectoryNode" />
-              <item name="CarSale-Mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarSale" type="462c0819:PsiDirectoryNode" />
-              <item name="CarSale-Mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarSale" type="462c0819:PsiDirectoryNode" />
-              <item name="CarSale-Mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarSale" type="462c0819:PsiDirectoryNode" />
-              <item name="CarSale-Mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarSale" type="462c0819:PsiDirectoryNode" />
-              <item name="CarSale-Util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarSale" type="462c0819:PsiDirectoryNode" />
-              <item name="CarSale-Web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarSale" type="462c0819:PsiDirectoryNode" />
-              <item name="CarSale-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarSale" type="462c0819:PsiDirectoryNode" />
-              <item name="CarSale-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarSale" type="462c0819:PsiDirectoryNode" />
-              <item name="CarSale-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarSale" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarSale" type="462c0819:PsiDirectoryNode" />
-              <item name="CarSale-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568274619634" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568622048996" />
     <property name="last_opened_file_path" value="E:/培训/Spring-generator-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\ideaProjects\CarSale\CarSale-Web\src\main\webapp\jsp" />
-      <recent name="E:\ideaProjects\CarSale\CarSale-Services\src\main\java" />
-      <recent name="E:\ideaProjects\CarSale\CarSale-Util" />
-      <recent name="E:\ideaProjects\CarSale\CarSale-Mapper\src\main\resources\spring" />
-      <recent name="E:\ideaProjects\CarSale\CarSale-Services\src\main\java\services" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.controller" />
-      <recent name="dao" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\ideaProjects\CarSale\CarSale-Mapper\src\main\java\com\dao" />
       <recent name="E:\ideaProjects\CarSale\CarSale-Web\src\main\webapp" />
       <recent name="E:\ideaProjects\CarSale\CarSale-Web\src\main\resources" />
       <recent name="E:\ideaProjects\CarSale\CarSale-Web\src\main\java\com\controller" />
       <recent name="E:\ideaProjects\CarSale\CarSale-Util\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.controller" />
+      <recent name="dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaProjects\CarSale" />
+      <recent name="E:\ideaProjects\CarSale\CarSale-Web\src\main\webapp\jsp" />
+      <recent name="E:\ideaProjects\CarSale\CarSale-Services\src\main\java" />
+      <recent name="E:\ideaProjects\CarSale\CarSale-Util" />
+      <recent name="E:\ideaProjects\CarSale\CarSale-Mapper\src\main\resources\spring" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -602,17 +461,17 @@
       <workItem from="1568187249470" duration="3039000" />
       <workItem from="1568190864565" duration="594000" />
       <workItem from="1568250196709" duration="7235000" />
+      <workItem from="1568621746201" duration="420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54271000" />
+    <option name="totallyTimeSpent" value="54691000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49855492" visible="true" weight="0.2855228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49855492" visible="true" weight="0.18498659" />
       <window_info id="Structure" order="1" sideWeight="0.5014451" side_tool="true" weight="0.1997319" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -627,7 +486,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32947975" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32947975" />
@@ -657,13 +516,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CarSale-Util/src/main/java/common/Assist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CarSale-Mapper/src/main/java/com/dao/PositionMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -870,11 +722,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CarSale-Mapper/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-415" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CarSale-Mapper/src/main/resources/spring/applicationContext.xml" />
     <entry file="file://$PROJECT_DIR$/CarSale-Mapper/src/main/resources/spring/applicationContext-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -918,9 +766,6 @@
         <state relative-caret-position="-2170" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CarSale-Web/src/main/webapp/jsp/userRight.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CarSale-Web/src/main/webapp/jsp/userLeft.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -928,16 +773,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CarSale-Web/src/main/java/com/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarSale-Util/src/main/java/common/PhoneMessageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CarSale-Services/src/main/java/service/EmployeeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="588">
           <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CarSale-Mapper/src/main/resources/com/dao/EmployeeMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="4683">
           <caret line="223" column="32" selection-start-line="223" selection-start-column="32" selection-end-line="223" selection-end-column="32" />
         </state>
       </provider>
@@ -949,47 +814,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CarSale-Web/src/main/java/com/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1487">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
+        <state relative-caret-position="4536">
           <caret line="216" selection-start-line="216" selection-end-line="216" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CarSale-Util/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="483">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CarSale-Util/src/main/java/common/PhoneMessageUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/CarSale-Web/src/main/webapp/jsp/userRight.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://E:/开源项目/SSM-CarSaleMIS/FlyCloud-parent/FlyCloud-Web/src/main/webapp/WEB-INF/lib/aliyun-java-sdk-core-3.2.2.jar!/com/aliyuncs/IAcsClient.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
